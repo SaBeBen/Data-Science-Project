@@ -7,3 +7,10 @@ Economy:
 
 Social media:
 - predict popularity of memes
+- analysing the socail media bubbles and predicting the responses towards events
+
+Demography:
+- where and why do people get old?
+
+Astronomy:
+- when and where are satelites crashing into each other
