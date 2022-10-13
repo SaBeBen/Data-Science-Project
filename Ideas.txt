@@ -1,0 +1,9 @@
+Environmental:
+- predict the emissions (greenhouse gases) of nations
+- identify greewashing statements automatically and rank companies by thrustworthyness
+
+Economy:
+- find innovative and potentially uprising stocks on the market 
+
+Social media:
+- predict popularity of memes
